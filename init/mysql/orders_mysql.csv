@@ -1,0 +1,4 @@
+order_id,customer_id,channel,amount,order_date
+1001,201,web,45.00,2025-09-02
+1002,202,web,150.75,2025-09-04
+1003,203,store,60.10,2025-09-06
